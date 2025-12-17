@@ -1,0 +1,15 @@
+.bg-image {
+  background-image: url("/public/image/bg.png");
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-size: 40%;
+  /* image ko chhota ya bada karne ke liye % adjust kar */
+  background-color: #ffd1b0;
+  min-height: 100vh;
+
+}
+.btn-heading{
+   background-color: #f25019;
+  color: white;
+  font-weight: 400;
+}
